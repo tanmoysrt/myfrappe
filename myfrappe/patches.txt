@@ -6,3 +6,4 @@
 # Patches added in this section will be executed after doctypes are migrated
 myfrappe.patches.dummy_patch
 myfrappe.patches.dummy_error_patch
+myfrappe.patches.dummy_broken_patch
