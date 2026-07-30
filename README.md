@@ -2,6 +2,8 @@
 
 Test frappe app
 
+Hi 
+
 ### Installation
 
 You can install this app using the [bench](https://github.com/frappe/bench) CLI:
